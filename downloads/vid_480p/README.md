@@ -7,7 +7,7 @@
 | Property | Value |
 |----------|-------|
 | **Original File** | `vid_480p.mp4` |
-| **Total Size** | **7 parts** - **312.07 MB** |
+| **Total Size** | **12 parts** - **514.99 MB** |
 | **Status** | **Complete (100%)** |
 | **Password Protected** | **YES** |
 
@@ -23,7 +23,12 @@
 | 4 | `vid_480p.z04` | [Download](https://github.com/mohammadkomeyli7-code/downloader/raw/main/downloads/vid_480p/vid_480p.z04) |
 | 5 | `vid_480p.z05` | [Download](https://github.com/mohammadkomeyli7-code/downloader/raw/main/downloads/vid_480p/vid_480p.z05) |
 | 6 | `vid_480p.z06` | [Download](https://github.com/mohammadkomeyli7-code/downloader/raw/main/downloads/vid_480p/vid_480p.z06) |
-| 7 | `vid_480p.zip` | [Download](https://github.com/mohammadkomeyli7-code/downloader/raw/main/downloads/vid_480p/vid_480p.zip) |
+| 7 | `vid_480p.z07` | [Download](https://github.com/mohammadkomeyli7-code/downloader/raw/main/downloads/vid_480p/vid_480p.z07) |
+| 8 | `vid_480p.z08` | [Download](https://github.com/mohammadkomeyli7-code/downloader/raw/main/downloads/vid_480p/vid_480p.z08) |
+| 9 | `vid_480p.z09` | [Download](https://github.com/mohammadkomeyli7-code/downloader/raw/main/downloads/vid_480p/vid_480p.z09) |
+| 10 | `vid_480p.z10` | [Download](https://github.com/mohammadkomeyli7-code/downloader/raw/main/downloads/vid_480p/vid_480p.z10) |
+| 11 | `vid_480p.z11` | [Download](https://github.com/mohammadkomeyli7-code/downloader/raw/main/downloads/vid_480p/vid_480p.z11) |
+| 12 | `vid_480p.zip` | [Download](https://github.com/mohammadkomeyli7-code/downloader/raw/main/downloads/vid_480p/vid_480p.zip) |
 
 ---
 
